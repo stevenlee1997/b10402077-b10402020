@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\bin\Debug\b10402077-b10402020-homework2.exe.config
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\bin\Debug\b10402077-b10402020-homework2.exe
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\bin\Debug\b10402077-b10402020-homework2.pdb
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077-b10402020-homework2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077_b10402020_homework2.Form1.resources
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077_b10402020_homework2.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077-b10402020-homework2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077-b10402020-homework2.exe
+C:\Users\USER\Documents\GitHub\b10402077-b10402020\b10402077-b10402020-homework2\b10402077-b10402020-homework2\obj\Debug\b10402077-b10402020-homework2.pdb
